@@ -1,0 +1,4 @@
+importSmmxToAstah
+=================
+
+SimpleMindのデータファイルを、Astahにインポートするスクリプト。
